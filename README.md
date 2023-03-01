@@ -1,4 +1,4 @@
-# Python do Zero com Vídeos de 1 Minuto
+# Python do Zero com Vídeos de 1 Minuto 💻
 
 Este repositório contém os códigos de todas as aulas da série "Python do Zero com Vídeos de 1 Minuto". Cada vídeo da série apresenta um conceito ou técnica de programação em Python, explicado de forma clara e objetiva em apenas 1 minuto.
 
@@ -9,3 +9,14 @@ Além dos códigos das aulas, também há uma pasta separada com arquivos .txt c
 Sinta-se à vontade para explorar os códigos e desafios e usá-los para aprender e praticar programação em Python. Se tiver alguma dúvida ou sugestão, sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
 Divirta-se aprendendo Python!
+
+## Links úteis 🔗
+
+Tiktok: https://www.tiktok.com/@codeemumminuto
+Instagram: https://www.instagram.com/codeemumminuto
+Youtube: https://www.youtube.com/@codeemumminuto
+Plataforma para aprender mais detalhado (lendo): *Em breve*
+
+Livros recomendados: https://beacons.ai/codeemumminuto/livros
+
+Créditos da imagem do perfil: Freepik @catalyststuff
