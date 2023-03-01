@@ -12,11 +12,11 @@ Divirta-se aprendendo Python!
 
 ## Links úteis 🔗
 
-Tiktok: https://www.tiktok.com/@codeemumminuto
-Instagram: https://www.instagram.com/codeemumminuto
-Youtube: https://www.youtube.com/@codeemumminuto
-Plataforma para aprender mais detalhado (lendo): *Em breve*
-
-Livros recomendados: https://beacons.ai/codeemumminuto/livros
-
+Tiktok: https://www.tiktok.com/@codeemumminuto <br>
+Instagram: https://www.instagram.com/codeemumminuto <br>
+Youtube: https://www.youtube.com/@codeemumminuto <br>
+Plataforma para aprender mais detalhado (lendo): *Em breve* <br>
+<br>
+Livros recomendados: https://beacons.ai/codeemumminuto/livros <br>
+<br>
 Créditos da imagem do perfil: Freepik @catalyststuff
