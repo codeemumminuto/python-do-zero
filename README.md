@@ -12,6 +12,11 @@ Divirta-se aprendendo Python!
 
 ## Links úteis 🔗
 
+Apoie @codeemumminuto: https://bit.ly/3ZDzFdb
+Ou através do QR Code:
+
+![Apoie](https://i.ibb.co/SykVNBV/qr.png)
+
 Tiktok: https://www.tiktok.com/@codeemumminuto <br>
 Instagram: https://www.instagram.com/codeemumminuto <br>
 Youtube: https://www.youtube.com/@codeemumminuto <br>
