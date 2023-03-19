@@ -17,6 +17,10 @@ Ou através do QR Code:
 
 ![Apoie](https://i.ibb.co/SykVNBV/qr.png)
 
+<br>
+E-book 50 projetos e 50 exercícios básicos e intermediários para você dominar a linguagem Python: https://amzn.to/3IALLOK
+</br>
+
 Tiktok: https://www.tiktok.com/@codeemumminuto <br>
 Instagram: https://www.instagram.com/codeemumminuto <br>
 Youtube: https://www.youtube.com/@codeemumminuto <br>
