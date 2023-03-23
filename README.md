@@ -25,7 +25,6 @@ Tiktok: https://www.tiktok.com/@codeemumminuto <br>
 Instagram: https://www.instagram.com/codeemumminuto <br>
 Youtube: https://www.youtube.com/@codeemumminuto <br>
 Discord: https://discord.gg/wQeZPVPyqK <br>
-Plataforma para aprender mais detalhado (lendo): *Em breve* <br>
 <br>
 Livros recomendados: https://beacons.ai/codeemumminuto/livros <br>
 <br>
