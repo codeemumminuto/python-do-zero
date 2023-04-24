@@ -12,20 +12,18 @@ Divirta-se aprendendo Python!
 
 ## Links úteis 🔗
 
-Apoie @codeemumminuto: https://bit.ly/3ZDzFdb
-Ou através do QR Code:
-
-![Apoie](https://i.ibb.co/SykVNBV/qr.png)
+Apoie @codeemumminuto: https://livepix.gg/codeemumminuto
 
 <br>
-E-book 50 projetos e 50 exercícios básicos e intermediários para você dominar a linguagem Python: https://amzn.to/3IALLOK
-</br>
+PDF - PYTHON BÁSICO: https://hotmart.com/pt-br/marketplace/produtos/python-basico-anotacoes-exemplos-exercicios-e-projetos/R81450812K
+<br>
+PDF - PYTHON INTERMEDIÁRIO: https://hotmart.com/pt-br/marketplace/produtos/python-intermediario-conceitos-exemplos-e-mais-de-30-projetos-para-praticar-python-e-rechear-seu-portifolio/D81918967E
+<br>
 
 Tiktok: https://www.tiktok.com/@codeemumminuto <br>
 Instagram: https://www.instagram.com/codeemumminuto <br>
 Youtube: https://www.youtube.com/@codeemumminuto <br>
 Discord: https://discord.gg/wQeZPVPyqK <br>
 <br>
-Livros recomendados: https://beacons.ai/codeemumminuto/livros <br>
-<br>
+
 Créditos da imagem do perfil: Freepik @catalyststuff
